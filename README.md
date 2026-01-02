@@ -89,4 +89,4 @@ The dashboard is fully interactive using **Slicers** and includes:
 ---
 
 ## 🎯 Project Goal
-This project was developed as part of my data analytics portfolio to demonstrate strong Excel-based data analysis and dashboarding skills for **Data Analyst Internship** roles.
+This project was developed as part of my data analytics portfolio to demonstrate strong Excel-based data analysis and dashboarding skills.
